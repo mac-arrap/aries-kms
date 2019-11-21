@@ -4,6 +4,9 @@ version = "0.1.0"
 authors = ["camiloparra <caeparra@gmail.com>"]
 edition = "2018"
 description = "aries kms storage layer"
+license = "Apache-2.0"
+repository = "https://github.com/mac-arrap/aries-kms"
+readme =  "../README.md"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
