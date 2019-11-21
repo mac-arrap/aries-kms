@@ -3,7 +3,7 @@ name = "pyxis"
 version = "0.1.0"
 authors = ["camiloparra <caeparra@gmail.com>"]
 edition = "2018"
-
+description = "aries kms storage layer"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
